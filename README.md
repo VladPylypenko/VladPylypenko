@@ -2,7 +2,7 @@
 
 ## I`m a React/React Native developer from Ukraine
 
-- 🔭 I’m currently working on HelpHub mobele
+- 🔭 I’m currently working on HelpHub mobile
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with interesting projects
 - ⚡ Fun fact: I love to ski and ride on my bike
