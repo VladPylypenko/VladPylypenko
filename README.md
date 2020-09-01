@@ -34,6 +34,6 @@
 
 ---
 
-[gmail]: https://instagram.com/codeSTACKr
+[gmail]: pylypenkovlado@gmail.com
 [linkedin]: https://www.linkedin.com/in/vlad-pylypenko/
 [instagram]: https://www.instagram.com/v_pylypenko/
